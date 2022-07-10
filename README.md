@@ -41,6 +41,11 @@ Wayback is a tool for crawling urls for targets from wayback implementation in b
   ```
 > after run A file will be created with enumerated urls with same name.
 
+## Screenshot  
+
+<img src="https://i.ibb.co/PzjfNfW/logo.png" /> </br>
+
+
 ## License
 Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
