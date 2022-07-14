@@ -15,8 +15,7 @@ Wayback is a tool for crawling urls for targets from wayback implementation in b
 - Easy to Install
 - Easy to Use
 - Designed In Bash
-- Easy To Execue
-- Fastest
+- Easy To Execute 
 - No Bandwith/Data Consume
 
 ## How to Install
