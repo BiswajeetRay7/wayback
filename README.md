@@ -36,7 +36,7 @@ Wayback is a tool for crawling urls for targets from wayback implementation in b
   ```
 - Now run tool
   ```bash
-  ./web-archive.sh and Enter your target name
+  ./wayback.sh and Enter your target name
   ```
 > after run A file will be created with enumerated urls with same name.
 
