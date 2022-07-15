@@ -16,7 +16,6 @@ Wayback is a tool for crawling urls for targets from wayback implementation in b
 - Easy to Use
 - Designed In Bash
 - Easy To Execute 
-- No Bandwith/Data Consume
 
 ## How to Install
 
@@ -32,7 +31,7 @@ Wayback is a tool for crawling urls for targets from wayback implementation in b
   ```
 - Open cloned directory
   ```bash
-  cd wayback
+  cd wayback && chmod +x wayback.sh 
   ```
 - Now run tool
   ```bash
@@ -52,7 +51,7 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
 - **Twitter** : [@biswajeetray7](https://www.twitter.com/biswajeetray7)
 - **Instagram** : [@biswajeetray7](https://www.instagram.com/biswajeetray7)
-
+- **Instagram** : [BIswajeetRay](https://www.youtube.com/c/BiswajeetRay)
 
 ## WARNING 
 ***This tool is only for educational purpose.***
