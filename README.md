@@ -21,13 +21,13 @@ Wayback is a tool for crawling urls for targets from wayback implementation in b
 
 ### Prerequisites
 
-- Git
+- Git and node
 
 ### Installation
 
 - Clone the Repo
   ```bash
-  git clone https://github.com/BiswajeetRay7/wayback.git
+  git clone https://github.com/BiswajeetRay7/UPI-INT
   ```
 - Open cloned directory
   ```bash
@@ -35,23 +35,15 @@ Wayback is a tool for crawling urls for targets from wayback implementation in b
   ```
 - Now run tool
   ```bash
-  ./wayback.sh and Enter your target name
+  npm install 
   ```
-> after run A file will be created with enumerated urls with same name.
+> Usage:
+node . 
+OR
+npm start
 
 ## Screenshot  
 
-<img src="https://i.ibb.co/PzjfNfW/logo.png" /> </br>
 
 
-## License
-Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
-## Contact
-
-- **Twitter** : [@biswajeetray7](https://www.twitter.com/biswajeetray7)
-- **Instagram** : [@biswajeetray7](https://www.instagram.com/biswajeetray7)
-- **Instagram** : [BIswajeetRay](https://www.youtube.com/c/BiswajeetRay)
-
-## WARNING 
-***This tool is only for educational purpose.***
