@@ -34,13 +34,13 @@ Wayback is a tool for crawling urls for targets from wayback implementation in b
   cd wayback && chmod +x wayback.sh 
   ```
 - Now run tool
-  ```bash
-  npm install 
+  ```=======
+  ===========
   ```
 > Usage:
-node . 
+=======
 OR
-npm start
+==========
 
 ## Screenshot  
 
