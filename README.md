@@ -21,13 +21,13 @@ Wayback is a tool for crawling urls for targets from wayback implementation in b
 
 ### Prerequisites
 
-- Git and node
+- Git 
 
 ### Installation
 
 - Clone the Repo
   ```bash
-  git clone https://github.com/BiswajeetRay7/UPI-INT
+  git clone \///////////////////////
   ```
 - Open cloned directory
   ```bash
